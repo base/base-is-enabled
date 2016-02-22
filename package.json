@@ -1,6 +1,6 @@
 {
   "name": "base-is-enabled",
-  "description": "base application plugin to add an  method to the app",
+  "description": "base application plugin to add an `isEnabled` method to the app",
   "version": "0.1.0",
   "homepage": "https://github.com/node-base/base-is-enabled",
   "author": "Brian Woodward (https://github.com/doowb)",

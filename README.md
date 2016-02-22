@@ -1,6 +1,6 @@
 # base-is-enabled [![NPM version](https://img.shields.io/npm/v/base-is-enabled.svg)](https://www.npmjs.com/package/base-is-enabled) [![Build Status](https://img.shields.io/travis/node-base/base-is-enabled.svg)](https://travis-ci.org/node-base/base-is-enabled)
 
-> base application plugin to add an  method to the app
+> base application plugin to add an `isEnabled` method to the app
 
 ## Install
 
