@@ -27,7 +27,7 @@ module.exports = function isEnabled(options) {
     }
     this.define('isEnabled', function(key) {
       return utils.isEnabled(this[prop], key, opts);
-    })
+    });
   };
 };
 
